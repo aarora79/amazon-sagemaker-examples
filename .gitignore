@@ -7,3 +7,5 @@
 **/_build
 *.iml
 tox.ini
+introduction_to_amazon_algorithms/jumpstart-foundation-models/*.jsonl
+introduction_to_amazon_algorithms/jumpstart-foundation-models/*.json
